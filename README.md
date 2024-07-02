@@ -31,7 +31,6 @@ activate chatbot
 pip install torch
 pip install nltk
 pip install numpy
-pip install numpy
 pip install tflearn
 pip install tensorflow
 ```
